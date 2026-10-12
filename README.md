@@ -14,12 +14,14 @@ Save the photos, reels and carousels from an Instagram profile or a single post 
 
 ## Install
 
-Pick the download for your browser from the [latest release](https://github.com/techygeekshome/GridSaver/releases/latest).
+**Microsoft Edge:** install Grid Saver from the [Edge Add-ons store](https://microsoftedge.microsoft.com/addons/detail/grid-saver-for-instagram/egikinecpdfibmgolllglmgnjjfepfpe). It updates itself.
+
+For other browsers, pick the download from the [latest release](https://github.com/techygeekshome/GridSaver/releases/latest).
 
 | Browser | Download |
 |---|---|
 | Chrome, Brave, Opera, Vivaldi | `GridSaver-chrome.zip` |
-| Microsoft Edge | `GridSaver-edge.zip` |
+| Microsoft Edge | [Edge Add-ons store](https://microsoftedge.microsoft.com/addons/detail/grid-saver-for-instagram/egikinecpdfibmgolllglmgnjjfepfpe), or `GridSaver-edge.zip` |
 | Firefox (142 or newer) | `GridSaver-firefox.zip` |
 
 `GridSaver.zip` is the same package as the Chrome and Edge downloads.
